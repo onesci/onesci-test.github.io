@@ -1,7 +1,7 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
-url: https://getpoole.com
+title: Science One Weekly
+tagline: Science One Updates
+url: https://onesci.github.io
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -32,10 +32,10 @@ sass:
 # ga_analytics: UA-000000-0
 
 # Specify the author for blog posts
-author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+# author:
+#   name: Jocelyn Baker
+#   url: https://twitter.com/mdo
+#   email: markdotto@gmail.com
 
 # Custom vars
 version: 3.0.0
